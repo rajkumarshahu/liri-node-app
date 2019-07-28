@@ -19,11 +19,7 @@ function spotifyThis(){
             if (err) {
                 console.log("Error occured: " + err);
                 fs.appendFile("log.txt", `, ${err}`, (error)=>{
-                    if(error){
-                        console.log(error)
-                    }else{
-                        console.log("The file updated successfully!!!");
-                    }
+                    console.log(error);
                 });
             }
             var trackDetail = data.tracks.items
@@ -33,14 +29,11 @@ function spotifyThis(){
             console.log("Song Name: " + trackDetail[0].name);
             console.log("Preview Link: " + trackDetail[0].preview_url);
             console.log("Album: " + trackDetail[0].album.name);
-            console.log(`><><><><><><>Spotified><><><><><><><\nArtist: ${trackDetail[0].artists[0].name}\nSong Name: ${trackDetail[0].name}\nPreview Link: ${trackDetail[0].preview_url}\nAlbum: ${trackDetail[0].album.name}`);
-            var logData = `><><><><><><>Spotifying><><><><><><><`
-            fs.appendFile("log.txt", `, ${err}`, (error)=>{
-                if(error){
-                    console.log(error)
-                }else{
-                    console.log("The file updated successfully!!!");
-                }
+            console.log(`><><><><><><>Spotified><><><><><><><`);
+            var logData = `\n><><><><><><>Spotifying><><><><><><><\nArtist: ${trackDetail[0].artists[0].name}\nSong Name: ${trackDetail[0].name}\nPreview Link: ${trackDetail[0].preview_url}\nAlbum: trackDetail[0].album.name\n><><><><><><>Spotified><><><><><><><\n`;
+
+            fs.appendFile("log.txt", `, ${logData}`, function(error){
+                console.log(error);
             });
         });
     }
