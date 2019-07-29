@@ -8,7 +8,9 @@ var moment = require('moment');
 moment().format();
 
 var command = process.argv[2];
-var userSearchKey = process.argv[3].trim();
+var userSearchKey = process.argv[3];
+
+
 
 function spotifyThis(){
     if(command == "spotify-this-song"){
@@ -42,17 +44,37 @@ function spotifyThis(){
 
 
 
+function getMovieData(){
+    if(command == "movie-this"){
+        axios.get(`http://www.omdbapi.com/?&t=${userSearchKey}&type=movie&y=&plot=short&apikey=trilogy`).then(
+            function(response) {
+                var movieData = response.data;
+              // console.log("response.data");
+              // console.log(movieData);
+              console.log(`><><><><><><>Getting Movie Data><><><><><><><`);
+              console.log("Movie Title is: " + movieData.Title);
+              console.log("Year the movie came out: "+ movieData.Year);
+              console.log("IMDB Rating : " + movieData.imdbRating);
+              console.log("Rotten Tomatoes Rating: "+ movieData.Ratings[1].Value);
+              console.log("Country: "+ movieData.Country);
+              console.log("Language: "+ movieData.Language);
+              console.log("Plot: "+ movieData.Plot);
+              console.log("Actors: "+ movieData.Actors);
+              console.log(`><><><><><><>Ending Movie Data><><><><><><><`);
+            }
+          );
+    }
+
+}
+getMovieData();
 
 
-// axios.get("http://www.omdbapi.com/?t=remember+the+titans&y=&plot=short&apikey=trilogy").then(
-//   function(response) {
-//     // Then we print out the imdbRating
-//     console.log("The movie's rating is: " + response.data.imdbRating);
-//   }
-// );
+
+
+
 
 function getVenue(){
-    if(command == "concert-this" && userSearchKey != undefined){
+    if(command == "concert-this"){
         axios.get("https://rest.bandsintown.com/artists/" + userSearchKey + "/events?app_id=codingbootcamp").then(
           function(response) {
                 var venueDetail = response.data
@@ -68,7 +90,6 @@ function getVenue(){
             fs.appendFile("log.txt", `${logData}`, function(err){
                 console.log(err);
             });
-
           }
         );
     }else{
@@ -76,4 +97,4 @@ function getVenue(){
     }
 }
 
-getVenue();
+//getVenue();
