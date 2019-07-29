@@ -8,15 +8,19 @@ var moment = require('moment');
 moment().format();
 
 var command = process.argv[2];
-var userSearchKey = process.argv[3];
 
-
+var userInput = process.argv;
+var userSearchKeys = ""
+for(var i = 3; i<=userInput.length-1; i++){
+    userSearchKeys += process.argv[i]+"+";
+}
 
 function spotifyThis(){
+    console.log(userSearchKeys);
     if(command == "spotify-this-song"){
         spotify.search({
             type: "track",
-            query: userSearchKey
+            query: userSearchKeys
         }, function (err, data) {
             if (err) {
                 console.log("Error occured: " + err);
@@ -40,13 +44,15 @@ function spotifyThis(){
         });
     }
 }
-//spotifyThis();
+spotifyThis();
 
 
 
 function getMovieData(){
+
+    var queryUrl = "http://www.omdbapi.com/?&t=" + userSearchKeys + "&type=movie&y=&plot=short&apikey=trilogy";
     if(command == "movie-this"){
-        axios.get(`http://www.omdbapi.com/?&t=${userSearchKey}&type=movie&y=&plot=short&apikey=trilogy`).then(
+        axios.get(queryUrl).then(
             function(response) {
                 var movieData = response.data;
               // console.log("response.data");
@@ -66,7 +72,7 @@ function getMovieData(){
     }
 
 }
-getMovieData();
+//getMovieData();
 
 
 
@@ -75,7 +81,7 @@ getMovieData();
 
 function getVenue(){
     if(command == "concert-this"){
-        axios.get("https://rest.bandsintown.com/artists/" + userSearchKey + "/events?app_id=codingbootcamp").then(
+        axios.get("https://rest.bandsintown.com/artists/" + userSearchKeys + "/events?app_id=codingbootcamp").then(
           function(response) {
                 var venueDetail = response.data
                 //console.log(venueDetail[0].venue);

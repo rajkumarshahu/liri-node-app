@@ -47,3 +47,59 @@ Song Name: Hai Apna Dil To Aawara - Happy Version
 Preview Link: https://p.scdn.co/mp3-preview/0497a34b12c0b513abf9718f42f8aee8cda2b0f5?cid=113f59a792f74c4c96b34b5d942f3301
 Album: Solva Saal (Original Motion Picture Soundtrack)
 ><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Bryan Adams
+Song Name: Summer Of '69
+Preview Link: null
+Album: Reckless (30th Anniversary / Deluxe Edition)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Bryan Adams
+Song Name: Summer Of '69
+Preview Link: null
+Album: Reckless (30th Anniversary / Deluxe Edition)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Kishore Kumar
+Song Name: De De Pyar De De - Male Vocals
+Preview Link: https://p.scdn.co/mp3-preview/8686811eedbfac36faa01190963a1cdcd620f114?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Sharaabi (Original Motion Picture Soundtrack)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Kishore Kumar
+Song Name: Yeh Lal Rang Kab Mujhe Chhodega
+Preview Link: https://p.scdn.co/mp3-preview/a0f1ce216a32e4f2601b6a854fa311f612da97d3?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Prem Nagar (Original Motion Picture Soundtrack)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Kumar Sanu
+Song Name: Ye Lal Rang
+Preview Link: https://p.scdn.co/mp3-preview/aa64ab22e8cc734045f4b7d6329f4f863a9979ac?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Ye Laal Rang (Kishor Ke Dard Bhare Nagmein)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Eagles
+Song Name: Hotel California - 2013 Remaster
+Preview Link: https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Hotel California (2013 Remaster)
+><><><><><><>Spotified><><><><><><><
+TypeError: Cannot read property 'artists' of undefinedTypeError: Cannot read property 'artists' of undefined
+><><><><><><>Spotifying><><><><><><><
+Artist: Michael Marc
+Song Name: Hotel California (Eagles - Instrumental)
+Preview Link: https://p.scdn.co/mp3-preview/6770afe5128393f1eada14ce1d050133fe4bba29?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Popular Romantic Hits on Spanish Acoustic Guitar, Vol. 2
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Marty Murray
+Song Name: Hotel California - Original
+Preview Link: https://p.scdn.co/mp3-preview/17fab3e2247b6894a95389066397a16e80c6adf0?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Musikladen - Marty Murray
+><><><><><><>Spotified><><><><><><><
