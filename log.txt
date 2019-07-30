@@ -453,3 +453,131 @@ Plot: A computer hacker learns from mysterious rebels about the true nature of h
 Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
         
 ><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+Movie Title is: The Matrix
+Year the movie came out: 1999
+IMDB Rating: 8.7
+        
+Rotten Tomatoes Rating: 88%
+        
+Country: USA
+        
+Language: English
+        
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+        
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+        
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Bryan Adams
+Song Name: Summer Of '69
+Preview Link: null
+Album: Reckless (30th Anniversary / Deluxe Edition)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>B in T start><><><><><><><
+Venue: Grant Park
+Location: Chicago IL
+Date: 08/02/2019
+><><><><><><>B in T end><><><><><><><
+
+><><><><><><>B in T start><><><><><><><
+Venue: Grant Park
+Location: Chicago IL
+Date: 08/02/2019
+><><><><><><>B in T end><><><><><><><
+
+><><><><><><>B in T start><><><><><><><
+Venue: Grant Park
+Location: Chicago IL
+Date: 08/02/2019
+><><><><><><>B in T end><><><><><><><
+
+><><><><><><>B in T start><><><><><><><
+Venue: Grant Park
+Location: Chicago IL
+Date: 08/02/2019
+><><><><><><>B in T end><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Hits--Chapter One
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Lil Wayne
+Song Name: Scared of the Dark (feat. XXXTENTACION)
+Preview Link: null
+Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Lil Wayne
+Song Name: Scared of the Dark (feat. XXXTENTACION)
+Preview Link: null
+Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Lil Wayne
+Song Name: Scared of the Dark (feat. XXXTENTACION)
+Preview Link: null
+Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Sign (US Album) [Remastered]
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Kishore Kumar
+Song Name: De De Pyar De De - Male Vocals
+Preview Link: https://p.scdn.co/mp3-preview/8686811eedbfac36faa01190963a1cdcd620f114?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Sharaabi (Original Motion Picture Soundtrack)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Kishore Kumar
+Song Name: De De Pyar De De - Male Vocals
+Preview Link: https://p.scdn.co/mp3-preview/8686811eedbfac36faa01190963a1cdcd620f114?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Sharaabi (Original Motion Picture Soundtrack)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Ozuna
+Song Name: Te Soñé De Nuevo
+Preview Link: https://p.scdn.co/mp3-preview/c16fc2cad90c4dfac4d23a6cd11bc838dba3e1ed?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Te Soñé De Nuevo
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: The Five Stairsteps
+Song Name: O-o-h Child
+Preview Link: https://p.scdn.co/mp3-preview/7ac892e43fa4db0b32789f0d00bb569873e6c966?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The First Family of Soul: The Best of The Five Stairsteps
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+Movie Title is: Mr. Nobody
+Year the movie came out: 2009
+IMDB Rating: 7.8
+        
+Rotten Tomatoes Rating: 67%
+        
+Country: Belgium, Germany, Canada, France, USA, UK
+        
+Language: English, Mohawk
+        
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+        
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+        
+><><><><><><>End of Movie Data><><><><><><><

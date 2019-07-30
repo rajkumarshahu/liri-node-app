@@ -19,10 +19,38 @@ for (var i = 3; i <= userInput.length - 1; i++) {
   userSearchKeysConcert += process.argv[i];
 }
 
+switch (command) {
+  case "spotify-this-song":
+    if(userSearchKeys == ""){
+      userSearchKeys = "The sign Ace of Base"
+
+    }
+    spotifyThis(userSearchKeys);
+    break;
+
+  case "movie-this":
+      if(userSearchKeys == ""){
+        userSearchKeys = "Mr. Nobody."
+
+      }
+    getMovieData(userSearchKeys);
+    break;
+
+  case "concert-this":
+    getVenue(userSearchKeysConcert);
+    break;
+
+  case "do-what-it-says":
+    doWhatItSays();
+    break;
+  }
+
+
 function spotifyThis(song) {
   console.log(userSearchKeys);
   song = userSearchKeys;
   if (command == "spotify-this-song") {
+
     spotify.search(
       {
         type: "track",
@@ -35,6 +63,7 @@ function spotifyThis(song) {
             console.log(err);
           });
         }
+
         var trackDetail = data.tracks.items;
         //console.log(data.tracks);
         console.log(`><><><><><><>Spotifying><><><><><><><`);
@@ -106,11 +135,11 @@ function getMovieData(movie) {
     });
   }
 }
-getMovieData(userSearchKeys);
+//getMovieData(userSearchKeys);
 
 function getVenue(venue) {
   venue = userSearchKeysConcert;
-  console.log(userSearchKeysConcert);
+  //console.log(userSearchKeysConcert);
 
   //https://rest.bandsintown.com/artists/drake?app_id=codingbootcamp
   //https://rest.bandsintown.com/artists/drake/events?app_id=codingbootcamp&date=all
@@ -124,7 +153,7 @@ function getVenue(venue) {
       .then(function(err,response) {
         var venueDetail = response.data;
         if (venueDetail[0] != undefined) {
-          console.log(venueDetail[0].venue);
+          //console.log(venueDetail[0].venue);
           console.log("-------------------------------------");
           console.log("Venue: " + venueDetail[0].venue.name);
           console.log(
@@ -147,18 +176,15 @@ function getVenue(venue) {
           fs.appendFile("log.txt", `${logData}`, function(err) {
             console.log(err);
           });
-        } else {
-          console.log(`><><><><><><>Getting Venue><><><><><><><`);
-          console.log(err);
+        }
+      })
+      .catch(function() {
+        console.log(`><><><><><><>Getting Venue><><><><><><><`);
           console.error(
             `Venue detail not found!!!\n${venue} is not performing at the moment.\nPlease come back later.`
           );
           console.log(`><><><><><><><><><><><><<><><><><><><><><`);
-        }
-      })
-      .catch(function(error) {
-        // handle error
-        console.log(error);
+
       });
   }
 }
