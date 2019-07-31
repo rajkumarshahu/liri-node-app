@@ -11,7 +11,7 @@ var command = process.argv[2];
 var userInput = process.argv;
 var userSearchKeys = "";
 for (var i = 3; i <= userInput.length - 1; i++) {
-  userSearchKeys += process.argv[i] + "+";
+  userSearchKeys += process.argv[i] + " ";
 }
 var userSearchKeysConcert = "";
 for (var i = 3; i <= userInput.length - 1; i++) {
@@ -34,7 +34,11 @@ switch (command) {
     break;
 
   case "concert-this":
+    if (userSearchKeysConcert == "") {
+      console.log("Please enter your search key word!!!");
+    }
     getVenue(userSearchKeysConcert);
+
     break;
 
   case "do-what-it-says":
@@ -100,24 +104,30 @@ function getMovieData(movie) {
           console.log("Movie Title is: " + movieData.Title);
           console.log("Year the movie came out: " + movieData.Year);
           console.log("IMDB Rating : " + movieData.imdbRating);
-          console.log("Rotten Tomatoes Rating: " + movieData.Ratings[1].Value);
+          if (movieData.Ratings[1] != undefined) {
+            console.log(
+              "Rotten Tomatoes Rating: " + movieData.Ratings[1].Value
+            );
+          } else {
+            console.log("Rotten Tomatoes Rating: N/A");
+          }
+
           console.log("Country: " + movieData.Country);
           console.log("Language: " + movieData.Language);
           console.log("Plot: " + movieData.Plot);
           console.log("Actors: " + movieData.Actors);
           console.log(`><><><><><><>Ending Movie Data><><><><><><><`);
 
-          var logData = `\n><><><><><><>Getting Movie Data><><><><><><><\nMovie Title is: ${
-            movieData.Title
-          }\nYear the movie came out: ${movieData.Year}\nIMDB Rating: ${
-            movieData.imdbRating
-          }
-        \nRotten Tomatoes Rating: ${movieData.Ratings[1].Value}
-        \nCountry: ${movieData.Country}
-        \nLanguage: ${movieData.Language}
-        \nPlot: ${movieData.Plot}
-        \nActors: ${movieData.Actors}
-        \n><><><><><><>End of Movie Data><><><><><><><\n`;
+          var logData = `\n><><><><><><>Getting Movie Data><><><><><><><\n
+          Movie Title is: ${movieData.Title}
+          Year the movie came out: ${movieData.Year}
+          IMDB Rating: ${movieData.imdbRating}
+          Rotten Tomatoes Rating: ${movieData.Ratings[1].Value}
+          Country: ${movieData.Country}
+          Language: ${movieData.Language}
+          Plot: ${movieData.Plot}
+          Actors: ${movieData.Actors}
+          \n><><><><><><>End of Movie Data><><><><><><><\n`;
           fs.appendFile("log.txt", `${logData}`, function(err) {
             console.log(err);
           });
@@ -133,20 +143,27 @@ function getMovieData(movie) {
   }
 }
 
-function getVenue(venue) {
-  venue = userSearchKeysConcert;
+function getVenue(artist) {
+  artist = userSearchKeysConcert;
   var queryUrl =
     "https://rest.bandsintown.com/artists/" +
-    venue +
+    artist +
     "/events?app_id=codingbootcamp";
   if (command == "concert-this") {
     axios
       .get(queryUrl)
-      .then(function(err, response) {
+      .then(function(response) {
         var venueDetail = response.data;
-        if (venueDetail[0] != undefined) {
-          //console.log(venueDetail[0].venue);
-          console.log("-------------------------------------");
+        if (venueDetail[0] == undefined) {
+          console.log(`
+    ><><><><><><>Getting Venue><><><><><><><
+    Venue detail not found!!!
+    ${artist} is not performing at the moment.
+    Please come back later.
+    ><><><><><><><><><><><><<><><><><><><><><\n`);
+          return false;
+        } else {
+          console.log("><><><>Getting Bands in Town><><><><><><><");
           console.log("Venue: " + venueDetail[0].venue.name);
           console.log(
             "Location: " +
@@ -157,25 +174,27 @@ function getVenue(venue) {
           console.log(
             "Date: " + moment(venueDetail[0].datetime).format("MM/DD/YYYY")
           );
-          console.log("-------------------------------------");
-          var logData = `\n><><><><><><>B in T start><><><><><><><\nVenue: ${
-            venueDetail[0].venue.name
-          }\nLocation: ${venueDetail[0].venue.city} ${
+          console.log("><><><><><>Ending Bands in Town<><><><><><><");
+          var logData = `\n><><><><><><>B in T start><><><><><><><\n
+            Venue: ${venueDetail[0].venue.name}
+            Location: ${venueDetail[0].venue.city} ${
             venueDetail[0].venue.region
-          }\nDate: ${moment(venueDetail[0].datetime).format(
-            "MM/DD/YYYY"
-          )}\n><><><><><><>B in T end><><><><><><><\n`;
+          }
+            Date: ${moment(venueDetail[0].datetime).format("MM/DD/YYYY")}
+            \n><><><><><><>B in T end><><><><><><><\n`;
           fs.appendFile("log.txt", `${logData}`, function(err) {
             console.log(err);
           });
         }
       })
-      .catch(function() {
-        console.log(`><><><><><><>Getting Venue><><><><><><><`);
-        console.error(
-          `Venue detail not found!!!\n${venue} is not performing at the moment.\nPlease come back later.`
-        );
-        console.log(`><><><><><><><><><><><><<><><><><><><><><`);
+      .catch(function(error) {
+        console.log(`
+        ><><><><><><>Getting Venue><><><><><><><
+        Venue detail not found!!!
+        ${artist} is not performing at the moment.
+        Please come back later.
+        ><><><><><><><><><><><><<><><><><><><><><`);
+        console.log(error);
       });
   }
 }
