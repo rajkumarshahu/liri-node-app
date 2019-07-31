@@ -68,3 +68,60 @@ Song Name: I Want It That Way
 Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=113f59a792f74c4c96b34b5d942f3301
 Album: The Hits--Chapter One
 ><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Post Malone
+Song Name: rockstar (feat. 21 Savage)
+Preview Link: null
+Album: beerbongs & bentleys
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Ro Ransom
+Song Name: See Me Fall - Y2K Remix
+Preview Link: https://p.scdn.co/mp3-preview/6e59c9c0b4b33e8a38ba908f58a7f9897517514e?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Momentum
+><><><><><><>Spotified><><><><><><><
+TypeError: Cannot read property 'artists' of undefinedTypeError: Cannot read property '0' of undefinedTypeError: Cannot read property 'artists' of undefinedTypeError: Cannot read property 'artists' of undefinedTypeError: Cannot read property 'artists' of undefinedTypeError: Cannot read property 'artists' of undefinedTypeError: Cannot read property 'artists' of undefinedTypeError: Cannot read property 'artists' of undefinedTypeError: Cannot read property 'artists' of undefinedTypeError: Cannot read property 'artists' of undefinedTypeError: Cannot read property 'artists' of undefined
+><><><><><><>Spotifying><><><><><><><
+Artist: Bryan Adams
+Song Name: Summer Of '69
+Preview Link: null
+Album: Reckless (30th Anniversary / Deluxe Edition)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Bryan Adams
+Song Name: Summer Of '69
+Preview Link: null
+Album: Reckless (30th Anniversary / Deluxe Edition)
+><><><><><><>Spotified><><><><><><><
+TypeError: Cannot read property 'name' of undefined
+><><><><><><>Spotifying><><><><><><><
+Artist: Bryan Adams
+Song Name: Summer Of '69
+Preview Link: null
+Album: Reckless (30th Anniversary / Deluxe Edition)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Niko Etxart
+Song Name: Eresi
+Preview Link: https://p.scdn.co/mp3-preview/8975696c504387efbf87a45dea2faa6a04405884?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Tumatxa
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Bryan Adams
+Song Name: Summer Of '69
+Preview Link: null
+Album: Reckless (30th Anniversary / Deluxe Edition)
+><><><><><><>Spotified><><><><><><><
+TypeError: Cannot read property 'name' of undefinedTypeError: Cannot read property 'artists' of undefinedTypeError: Cannot read property 'artists' of undefinedTypeError: Cannot read property 'artists' of undefinedTypeError: Cannot read property 'artists' of undefinedTypeError: Cannot read property 'artists' of undefinedTypeError: Cannot read property 'artists' of undefinedTypeError: Cannot read property 'artists' of undefinedTypeError: Cannot read property 'artists' of undefined
+><><><><><><>Spotifying><><><><><><><
+Artist: Bryan Adams
+Song Name: Summer Of '69
+Preview Link: null
+Album: Reckless (30th Anniversary / Deluxe Edition)
+><><><><><><>Spotified><><><><><><><
+TypeError: Cannot read property 'artists' of undefined

@@ -50,39 +50,49 @@ function spotifyThis(song) {
   console.log(userSearchKeys);
   song = userSearchKeys;
   if (command == "spotify-this-song") {
-    spotify.search(
-      {
+    spotify
+      .search({
         type: "track",
         query: song,
-      },
-      function(err, data) {
+      })
+      .then(function(response) {
+        var trackDetail = response.tracks.items;
+        if (trackDetail[0].artists[0].name == null) {
+          console.log(
+            `Song not found!!!\nEither ${song} does not exist or you have probably misspelled it.\nPlease modify your search and try again.`
+          );
+        } else {
+          console.log(`><><><><><><>Spotifying><><><><><><><`);
+          console.log("Artist: " + trackDetail[0].artists[0].name);
+          console.log("Song Name: " + trackDetail[0].name);
+          console.log("Preview Link: " + trackDetail[0].preview_url);
+          console.log("Album: " + trackDetail[0].album.name);
+          console.log(`><><><><><><>Spotified><><><><><><><`);
+          var logData = `\n><><><><><><>Spotifying><><><><><><><\nArtist: ${
+            trackDetail[0].artists[0].name
+          }\nSong Name: ${trackDetail[0].name}\nPreview Link: ${
+            trackDetail[0].preview_url
+          }\nAlbum: ${
+            trackDetail[0].album.name
+          }\n><><><><><><>Spotified><><><><><><><\n`;
+
+          fs.appendFile("log.txt", `${logData}`, function(err) {
+            console.log(err);
+          });
+        }
+      })
+      .catch(function(err) {
         if (err) {
-          console.log("Error occured: " + err);
+          console.log(
+            "Error occured: " +
+              err +
+              `\nSong not found!!!\nEither ${song} does not exist or you have probably misspelled it.\nPlease modify your search and try again.`
+          );
           fs.appendFile("log.txt", `${err}`, err => {
             console.log(err);
           });
         }
-
-        var trackDetail = data.tracks.items;
-        console.log(`><><><><><><>Spotifying><><><><><><><`);
-        console.log("Artist: " + trackDetail[0].artists[0].name);
-        console.log("Song Name: " + trackDetail[0].name);
-        console.log("Preview Link: " + trackDetail[0].preview_url);
-        console.log("Album: " + trackDetail[0].album.name);
-        console.log(`><><><><><><>Spotified><><><><><><><`);
-        var logData = `\n><><><><><><>Spotifying><><><><><><><\nArtist: ${
-          trackDetail[0].artists[0].name
-        }\nSong Name: ${trackDetail[0].name}\nPreview Link: ${
-          trackDetail[0].preview_url
-        }\nAlbum: ${
-          trackDetail[0].album.name
-        }\n><><><><><><>Spotified><><><><><><><\n`;
-
-        fs.appendFile("log.txt", `${logData}`, function(err) {
-          console.log(err);
-        });
-      }
-    );
+      });
   }
 }
 
