@@ -1,3 +1,5 @@
+/* eslint-disable no-console */
+/* eslint-disable no-undef */
 require("dotenv").config();
 var keys = require("./keys.js");
 const Spotify = require("node-spotify-api");
@@ -14,8 +16,8 @@ for (var i = 3; i <= userInput.length - 1; i++) {
   userSearchKeys += process.argv[i] + " ";
 }
 var userSearchKeysConcert = "";
-for (var i = 3; i <= userInput.length - 1; i++) {
-  userSearchKeysConcert += process.argv[i];
+for (var j = 3; j <= userInput.length - 1; j++) {
+  userSearchKeysConcert += process.argv[j];
 }
 
 switch (command) {
@@ -35,10 +37,10 @@ switch (command) {
 
   case "concert-this":
     if (userSearchKeysConcert == "") {
-      console.log("Please enter your search key word!!!");
+      userSearchKeysConcert = undefined;
+      console.log("Please enter your search key words!!!");
     }
     getVenue(userSearchKeysConcert);
-
     break;
 
   case "do-what-it-says":
@@ -110,7 +112,7 @@ function getMovieData(movie) {
         // console.log("response.data");
         // console.log(movieData);
         if (movieData.Title != undefined) {
-          console.log(`><><><><><><>Getting Movie Data><><><><><><><`);
+          console.log(`\n><><><><><><>Getting Movie Data><><><><><><><`);
           console.log("Movie Title is: " + movieData.Title);
           console.log("Year the movie came out: " + movieData.Year);
           console.log("IMDB Rating : " + movieData.imdbRating);
@@ -138,17 +140,25 @@ function getMovieData(movie) {
           Plot: ${movieData.Plot}
           Actors: ${movieData.Actors}
           \n><><><><><><>End of Movie Data><><><><><><><\n`;
+          // eslint-disable-next-line no-unused-vars
           fs.appendFile("log.txt", `${logData}`, function(err) {
-            console.log(err);
+            console.log();
           });
         } else {
+          console.log(`\n><><><><><><>Getting Movie Data><><><><><><><`);
           console.log(
-            `Movie detail not found!!!\nEither ${movie} does not exist or you have probably misspelled it.\nPlease modify your search and try again.`
+            `\nMovie detail not found!!!\nEither ${movie} does not exist or you have probably misspelled it.\nPlease modify your search and try again.`
           );
+          console.log(`\n><><><><><><>Ending Movie Data><><><><><><><`);
         }
       })
       .catch(function(error) {
-        console.log(error);
+        if (error) {
+          console.log("Error occured: " + error);
+          fs.appendFile("log.txt", `${error}`, error => {
+            console.log(error);
+          });
+        }
       });
   }
 }
@@ -166,11 +176,11 @@ function getVenue(artist) {
         var venueDetail = response.data;
         if (venueDetail[0] == undefined) {
           console.log(`
-    ><><><><><><>Getting Venue><><><><><><><
+    \n><><><><><><>Getting Bands in Town><><><><><><><\n
     Venue detail not found!!!
     ${artist} is not performing at the moment.
     Please come back later.
-    ><><><><><><><><><><><><<><><><><><><><><\n`);
+    \n><><><><><><><>Ending Bands in Town<><><><><><><><><\n`);
           return false;
         } else {
           console.log("><><><>Getting Bands in Town><><><><><><><");
@@ -210,8 +220,6 @@ function getVenue(artist) {
 }
 
 function doWhatItSays() {
-  if (command == "do-what-it-says") {
-  }
   fs.readFile("random.txt", "utf8", (err, data) => {
     if (err) {
       console.log(err);

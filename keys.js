@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 //console.log('this is loaded');
 
 exports.spotify = {

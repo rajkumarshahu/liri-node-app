@@ -125,3 +125,165 @@ Preview Link: null
 Album: Reckless (30th Anniversary / Deluxe Edition)
 ><><><><><><>Spotified><><><><><><><
 TypeError: Cannot read property 'artists' of undefined
+><><><><><><>Spotifying><><><><><><><
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Hits--Chapter One
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>B in T start><><><><><><><
+
+            Venue: Park MGM Las Vegas
+            Location: Las Vegas NV
+            Date: 07/31/2019
+
+><><><><><><>B in T end><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: Bol Bachchan
+          Year the movie came out: 2012
+          IMDB Rating: 5.5
+          Rotten Tomatoes Rating: 71%
+          Country: India
+          Language: Hindi
+          Plot: All hell breaks loose when a Muslim man breaks a temple lock to save a little child, thus for his safety keeps a Hindu name, where he starts making web of lies.
+          Actors: Amitabh Bachchan, Asin, Ajay Devgn, Abhishek Bachchan
+
+><><><><><><>End of Movie Data><><><><><><><
+TypeError: Cannot read property 'Value' of undefinedTypeError: Cannot read property 'Value' of undefinedTypeError: Cannot read property 'Value' of undefinedTypeError: Cannot read property 'Value' of undefinedTypeError: Cannot read property 'Value' of undefinedTypeError: Cannot read property 'Value' of undefined
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: Deception
+          Year the movie came out: 2008
+          IMDB Rating: 6.1
+          Rotten Tomatoes Rating: 11%
+          Country: USA
+          Language: English, Spanish, Cantonese
+          Plot: An accountant is introduced to a mysterious sex club known as The List by his lawyer friend. But in this new world, he soon becomes the prime suspect in a woman's disappearance and a multi-million dollar heist.
+          Actors: Ewan McGregor, Hugh Jackman, Michelle Williams, Bruce Altman
+
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: Deception
+          Year the movie came out: 2008
+          IMDB Rating: 6.1
+          Rotten Tomatoes Rating: 11%
+          Country: USA
+          Language: English, Spanish, Cantonese
+          Plot: An accountant is introduced to a mysterious sex club known as The List by his lawyer friend. But in this new world, he soon becomes the prime suspect in a woman's disappearance and a multi-million dollar heist.
+          Actors: Ewan McGregor, Hugh Jackman, Michelle Williams, Bruce Altman
+
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: Deception
+          Year the movie came out: 2008
+          IMDB Rating: 6.1
+          Rotten Tomatoes Rating: 11%
+          Country: USA
+          Language: English, Spanish, Cantonese
+          Plot: An accountant is introduced to a mysterious sex club known as The List by his lawyer friend. But in this new world, he soon becomes the prime suspect in a woman's disappearance and a multi-million dollar heist.
+          Actors: Ewan McGregor, Hugh Jackman, Michelle Williams, Bruce Altman
+
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: Deception
+          Year the movie came out: 2008
+          IMDB Rating: 6.1
+          Rotten Tomatoes Rating: 11%
+          Country: USA
+          Language: English, Spanish, Cantonese
+          Plot: An accountant is introduced to a mysterious sex club known as The List by his lawyer friend. But in this new world, he soon becomes the prime suspect in a woman's disappearance and a multi-million dollar heist.
+          Actors: Ewan McGregor, Hugh Jackman, Michelle Williams, Bruce Altman
+
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Hits--Chapter One
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Alien Ant Farm
+Song Name: Smooth Criminal
+Preview Link: null
+Album: Anthology
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Drake
+Song Name: Don’t Matter To Me (with Michael Jackson)
+Preview Link: null
+Album: Scorpion
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Sign (US Album) [Remastered]
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: Mr. Nobody
+          Year the movie came out: 2009
+          IMDB Rating: 7.8
+          Rotten Tomatoes Rating: 67%
+          Country: Belgium, Germany, Canada, France, USA, UK
+          Language: English, Mohawk
+          Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+          Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: The Lion King
+          Year the movie came out: 1994
+          IMDB Rating: 8.5
+          Rotten Tomatoes Rating: 93%
+          Country: USA
+          Language: English, Swahili, Xhosa, Zulu
+          Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+          Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: Monsoon Wedding
+          Year the movie came out: 2001
+          IMDB Rating: 7.4
+          Rotten Tomatoes Rating: 95%
+          Country: India, USA, Italy, Germany, France, UK
+          Language: Hindi, English
+          Plot: A stressed father, a bride-to-be with a secret, a smitten event planner, and relatives from around the world create much ado about the preparations for an arranged marriage in India.
+          Actors: Naseeruddin Shah, Lillete Dubey, Shefali Shah, Vijay Raaz
+
+><><><><><><>End of Movie Data><><><><><><><
+TypeError: Cannot read property 'Value' of undefined
+><><><><><><>B in T start><><><><><><><
+
+            Venue: Park MGM Las Vegas
+            Location: Las Vegas NV
+            Date: 07/31/2019
+
+><><><><><><>B in T end><><><><><><><
+
+><><><><><><>B in T start><><><><><><><
+
+            Venue: Curacao North Sea Jazz Festival
+            Location: Willemstad, Curaçao
+            Date: 08/31/2019
+
+><><><><><><>B in T end><><><><><><><
