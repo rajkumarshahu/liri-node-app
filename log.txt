@@ -287,3 +287,604 @@ TypeError: Cannot read property 'Value' of undefined
             Date: 08/31/2019
 
 ><><><><><><>B in T end><><><><><><><
+
+><><><><><><>B in T start><><><><><><><
+
+            Venue: Curacao North Sea Jazz Festival
+            Location: Willemstad, Curaçao 
+            Date: 08/31/2019
+            
+><><><><><><>B in T end><><><><><><><
+
+><><><><><><>B in T start><><><><><><><
+
+            Venue: Park MGM Las Vegas
+            Location: Las Vegas NV
+            Date: 07/31/2019
+            
+><><><><><><>B in T end><><><><><><><
+TypeError: Cannot read property 'Value' of undefined
+><><><><><><>B in T start><><><><><><><
+
+            Venue: DC9 Nightclub
+            Location: Washington DC
+            Date: 08/24/2019
+            
+><><><><><><>B in T end><><><><><><><
+TypeError: Cannot read property 'artists' of undefined
+><><><><><><>Spotifying><><><><><><><
+Artist: Kishore Kumar
+Song Name: De De Pyar De De - Male Vocals
+Preview Link: https://p.scdn.co/mp3-preview/8686811eedbfac36faa01190963a1cdcd620f114?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Sharaabi (Original Motion Picture Soundtrack)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Asha Bhosle
+Song Name: De De Pyar De De - Female Vocals
+Preview Link: https://p.scdn.co/mp3-preview/d4bfc1440598d5d27eda64bfccc56bec32e8cef9?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Sharaabi (Original Motion Picture Soundtrack)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Sign (US Album) [Remastered]
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Hits--Chapter One
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>B in T start><><><><><><><
+
+            Venue: Park MGM Las Vegas
+            Location: Las Vegas NV
+            Date: 07/31/2019
+            
+><><><><><><>B in T end><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: Sholay
+          Year the movie came out: 1975
+          IMDB Rating: 8.2
+          Rotten Tomatoes Rating: 90%
+          Country: India
+          Language: Hindi
+          Plot: After his family is murdered by a notorious and ruthless bandit, a former police officer enlists the services of two outlaws to capture the bandit.
+          Actors: Sanjeev Kumar, Dharmendra, Amitabh Bachchan, Amjad Khan
+          
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Bryan Adams
+Song Name: Summer Of '69
+Preview Link: null
+Album: Reckless (30th Anniversary / Deluxe Edition)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Avicii
+Song Name: Heaven
+Preview Link: null
+Album: TIM
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Hits--Chapter One
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Carrie Underwood
+Song Name: Before He Cheats
+Preview Link: https://p.scdn.co/mp3-preview/b61f1fd8811b6c9bd9d5d0b47c35175aba787201?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Some Hearts
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Avicii
+Song Name: Heaven
+Preview Link: null
+Album: TIM
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: A$AP Rocky
+Song Name: L$D
+Preview Link: https://p.scdn.co/mp3-preview/acc8c9d799cd91fcb1045ad7ba44663a4f574c80?cid=113f59a792f74c4c96b34b5d942f3301
+Album: AT.LONG.LAST.A$AP
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Adele
+Song Name: Hello
+Preview Link: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=113f59a792f74c4c96b34b5d942f3301
+Album: 25
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Sign (US Album) [Remastered]
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: Mr. Nobody
+          Year the movie came out: 2009
+          IMDB Rating: 7.8
+          Rotten Tomatoes Rating: 67%
+          Country: Belgium, Germany, Canada, France, USA, UK
+          Language: English, Mohawk
+          Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+          Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+          
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>B in T start><><><><><><><
+
+            Venue: Park MGM Las Vegas
+            Location: Las Vegas NV
+            Date: 07/31/2019
+            
+><><><><><><>B in T end><><><><><><><
+
+><><><><><><>B in T start><><><><><><><
+
+            Venue: Curacao North Sea Jazz Festival
+            Location: Willemstad, Curaçao 
+            Date: 08/31/2019
+            
+><><><><><><>B in T end><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Sign (US Album) [Remastered]
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Bryan Adams
+Song Name: Summer Of '69
+Preview Link: null
+Album: Reckless (30th Anniversary / Deluxe Edition)
+><><><><><><>Spotified><><><><><><><
+TypeError: Cannot read property 'artists' of undefined
+><><><><><><>Spotifying><><><><><><><
+Artist: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Sign (US Album) [Remastered]
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: Mr. Nobody
+          Year the movie came out: 2009
+          IMDB Rating: 7.8
+          Rotten Tomatoes Rating: 67%
+          Country: Belgium, Germany, Canada, France, USA, UK
+          Language: English, Mohawk
+          Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+          Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+          
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: The Lion King
+          Year the movie came out: 1994
+          IMDB Rating: 8.5
+          Rotten Tomatoes Rating: 93%
+          Country: USA
+          Language: English, Swahili, Xhosa, Zulu
+          Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+          Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+          
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: The Godfather
+          Year the movie came out: 1972
+          IMDB Rating: 9.2
+          Rotten Tomatoes Rating: 98%
+          Country: USA
+          Language: English, Italian, Latin
+          Plot: The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
+          Actors: Marlon Brando, Al Pacino, James Caan, Richard S. Castellano
+          
+><><><><><><>End of Movie Data><><><><><><><
+TypeError: Cannot read property 'Value' of undefined
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: Scarface
+          Year the movie came out: 1983
+          IMDB Rating: 8.3
+          Rotten Tomatoes Rating: 81%
+          Country: USA
+          Language: English, Spanish
+          Plot: In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+          Actors: Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio
+          
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Hits--Chapter One
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: Mr. Nobody
+          Year the movie came out: 2009
+          IMDB Rating: 7.8
+          Rotten Tomatoes Rating: 67%
+          Country: Belgium, Germany, Canada, France, USA, UK
+          Language: English, Mohawk
+          Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+          Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+          
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: Mr. Nobody
+          Year the movie came out: 2009
+          IMDB Rating: 7.8
+          Rotten Tomatoes Rating: 67%
+          Country: Belgium, Germany, Canada, France, USA, UK
+          Language: English, Mohawk
+          Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+          Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+          
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>B in T start><><><><><><><
+
+            Venue: Park MGM Las Vegas
+            Location: Las Vegas NV
+            Date: 07/31/2019
+            
+><><><><><><>B in T end><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Sign (US Album) [Remastered]
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Bryan Adams
+Song Name: Summer Of '69
+Preview Link: null
+Album: Reckless (30th Anniversary / Deluxe Edition)
+><><><><><><>Spotified><><><><><><><
+TypeError: Cannot read property 'artists' of undefined
+><><><><><><>Spotifying><><><><><><><
+Artist: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Sign (US Album) [Remastered]
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Sign (US Album) [Remastered]
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Sign (US Album) [Remastered]
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Michael Jackson
+Song Name: Billie Jean
+Preview Link: https://p.scdn.co/mp3-preview/f504e6b8e037771318656394f532dede4f9bcaea?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Thriller 25 Super Deluxe Edition
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Pomplamoose
+Song Name: Can't Stop Feeling Billie Jean's Face
+Preview Link: https://p.scdn.co/mp3-preview/7f8b9dedb88db5dd199f2f6d610971ba8c738ab3?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Best of 2018
+><><><><><><>Spotified><><><><><><><
+TypeError: Cannot read property 'artists' of undefined
+><><><><><><>Spotifying><><><><><><><
+Artist: Eagles
+Song Name: Hotel California - 2013 Remaster
+Preview Link: https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Hotel California (2013 Remaster)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Sign (US Album) [Remastered]
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Bryan Adams
+Song Name: Summer Of '69
+Preview Link: null
+Album: Reckless (30th Anniversary / Deluxe Edition)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Eagles
+Song Name: Hotel California - 2013 Remaster
+Preview Link: https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Hotel California (2013 Remaster)
+><><><><><><>Spotified><><><><><><><
+TypeError: Cannot read property 'artists' of undefined
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: Mr. Nobody
+          Year the movie came out: 2009
+          IMDB Rating: 7.8
+          Rotten Tomatoes Rating: 67%
+          Country: Belgium, Germany, Canada, France, USA, UK
+          Language: English, Mohawk
+          Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+          Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+          
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: Mr. Nobody
+          Year the movie came out: 2009
+          IMDB Rating: 7.8
+          Rotten Tomatoes Rating: 67%
+          Country: Belgium, Germany, Canada, France, USA, UK
+          Language: English, Mohawk
+          Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+          Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+          
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: The Lion King
+          Year the movie came out: 1994
+          IMDB Rating: 8.5
+          Rotten Tomatoes Rating: 93%
+          Country: USA
+          Language: English, Swahili, Xhosa, Zulu
+          Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+          Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+          
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Hits--Chapter One
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Hits--Chapter One
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Sign (US Album) [Remastered]
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Sign (US Album) [Remastered]
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Bryan Adams
+Song Name: Summer Of '69
+Preview Link: null
+Album: Reckless (30th Anniversary / Deluxe Edition)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: ill-esha
+Song Name: High Voltage Storms - kLL sMTH Remix
+Preview Link: https://p.scdn.co/mp3-preview/174d745b19c32d688380f9bf0a63326b337d7866?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Open Heart Surgery: The Remixes
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Sign (US Album) [Remastered]
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Bryan Adams
+Song Name: Summer Of '69
+Preview Link: null
+Album: Reckless (30th Anniversary / Deluxe Edition)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Eagles
+Song Name: Hotel California - 2013 Remaster
+Preview Link: https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Hotel California (2013 Remaster)
+><><><><><><>Spotified><><><><><><><
+TypeError: Cannot read property 'artists' of undefined
+><><><><><><>B in T start><><><><><><><
+
+            Venue: Park MGM Las Vegas
+            Location: Las Vegas NV
+            Date: 07/31/2019
+            
+><><><><><><>B in T end><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Sign (US Album) [Remastered]
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Bryan Adams
+Song Name: Summer Of '69
+Preview Link: null
+Album: Reckless (30th Anniversary / Deluxe Edition)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Eagles
+Song Name: Hotel California - 2013 Remaster
+Preview Link: https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Hotel California (2013 Remaster)
+><><><><><><>Spotified><><><><><><><
+TypeError: Cannot read property 'artists' of undefined
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: Mr. Nobody
+          Year the movie came out: 2009
+          IMDB Rating: 7.8
+          Rotten Tomatoes Rating: 67%
+          Country: Belgium, Germany, Canada, France, USA, UK
+          Language: English, Mohawk
+          Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+          Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+          
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: The Lion King
+          Year the movie came out: 1994
+          IMDB Rating: 8.5
+          Rotten Tomatoes Rating: 93%
+          Country: USA
+          Language: English, Swahili, Xhosa, Zulu
+          Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+          Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+          
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: The Matrix
+          Year the movie came out: 1999
+          IMDB Rating: 8.7
+          Rotten Tomatoes Rating: 88%
+          Country: USA
+          Language: English
+          Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+          Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+          
+><><><><><><>End of Movie Data><><><><><><><
+TypeError: Cannot read property 'Value' of undefined
+><><><><><><>Spotifying><><><><><><><
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Hits--Chapter One
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>B in T start><><><><><><><
+
+            Venue: Park MGM Las Vegas
+            Location: Las Vegas NV
+            Date: 07/31/2019
+            
+><><><><><><>B in T end><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Sign (US Album) [Remastered]
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Bryan Adams
+Song Name: Summer Of '69
+Preview Link: null
+Album: Reckless (30th Anniversary / Deluxe Edition)
+><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Eagles
+Song Name: Hotel California - 2013 Remaster
+Preview Link: https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=113f59a792f74c4c96b34b5d942f3301
+Album: Hotel California (2013 Remaster)
+><><><><><><>Spotified><><><><><><><
+TypeError: Cannot read property 'artists' of undefined
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: Mr. Nobody
+          Year the movie came out: 2009
+          IMDB Rating: 7.8
+          Rotten Tomatoes Rating: 67%
+          Country: Belgium, Germany, Canada, France, USA, UK
+          Language: English, Mohawk
+          Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+          Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+          
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: The Lion King
+          Year the movie came out: 1994
+          IMDB Rating: 8.5
+          Rotten Tomatoes Rating: 93%
+          Country: USA
+          Language: English, Swahili, Xhosa, Zulu
+          Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+          Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+          
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: The Matrix
+          Year the movie came out: 1999
+          IMDB Rating: 8.7
+          Rotten Tomatoes Rating: 88%
+          Country: USA
+          Language: English
+          Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+          Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+          
+><><><><><><>End of Movie Data><><><><><><><
+
+><><><><><><>Spotifying><><><><><><><
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=113f59a792f74c4c96b34b5d942f3301
+Album: The Hits--Chapter One
+><><><><><><>Spotified><><><><><><><

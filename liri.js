@@ -1,5 +1,3 @@
-/* eslint-disable no-console */
-/* eslint-disable no-undef */
 require("dotenv").config();
 var keys = require("./keys.js");
 const Spotify = require("node-spotify-api");
