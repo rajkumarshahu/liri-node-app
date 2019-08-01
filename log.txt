@@ -888,3 +888,16 @@ Song Name: I Want It That Way
 Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=113f59a792f74c4c96b34b5d942f3301
 Album: The Hits--Chapter One
 ><><><><><><>Spotified><><><><><><><
+
+><><><><><><>Getting Movie Data><><><><><><><
+
+          Movie Title is: Scarface
+          Year the movie came out: 1983
+          IMDB Rating: 8.3
+          Rotten Tomatoes Rating: 81%
+          Country: USA
+          Language: English, Spanish
+          Plot: In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+          Actors: Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio
+          
+><><><><><><>End of Movie Data><><><><><><><
